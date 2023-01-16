@@ -37,12 +37,12 @@
         "BOT_ID": {
             "description": "fill with telegram id of your bot",
             "required": true,
-            "value": ""
+            "value": "5974709174"
         },
         "BOT_USERNAME": {
             "description": "fill with telegram username of bot without @",
             "required": true,
-            "value": ""
+            "value": "MusicHostingBot"
         },
         "BOT_NAME": {
             "description": "fill with telegram name of bot",
@@ -52,32 +52,32 @@
         "SUPPORT": {
             "description": "fill with your bot support group, please fill valid username",
             "required": false,
-            "value": "TheSupportChat"
+            "value": "StarBotsUpdate"
         },
         "UPDATE": {
             "description": "fill with your bot update channel, please fill valid username",
             "required": false,
-            "value": "TheUpdatesChannel"
+            "value": "FallenAngelNews"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
             "required": true,
-            "value": ""
+            "value": "24476192"
         },
         "API_HASH": {
             "description": "your Api Hash from my.telegram.org/apps",
             "required": true,
-            "value": ""
+            "value": "f47691a2c89c0461a39d34ce89e3d6bd"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": ""
+            "value": "5974709174:AAFpDUrfuHRohd0mfrl53RUlcFf6F3P6peg"
         },
         "CLONER_TOKEN": {
             "description": "fill a bot token if you want to use cloning features Else You can Leave Blank",
             "required": false,
-            "value": ""
+            "value": "5974709174:AAFpDUrfuHRohd0mfrl53RUlcFf6F3P6peg"
         },
         "MONGO_DB_URI": {
             "description": "fill with the mongodb url get from mongodb.com (don't use mine below !)",
